@@ -35,7 +35,7 @@ Scala prove algunas  colecciones
 
 vea tambien 
 
-h2 (#Lists). Listas
+h2(#Lists). Listas
 
 <pre>
 scala> val numeros = List(1, 2, 3, 4)
